@@ -29,5 +29,5 @@ The Lora Nodes are configured for very low power operation. They will read the D
 
 The InfluxDB install can be on a Raspberry Pi or similar. The InfluxDB IP address, database name, username and password can be configured in ``TTGO_LoraMain``. Grafana is recommended for data visualisation:
 
-![Alt text](images/grafana1.jpg?raw=true "Grafana View 1")
-![Alt text](images/grafana2.jpg?raw=true "Grafana View 2")
+![Alt text](images/grafana1.png?raw=true "Grafana View 1")
+![Alt text](images/grafana2.png?raw=true "Grafana View 2")
